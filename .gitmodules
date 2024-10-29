@@ -1,0 +1,15 @@
+[submodule "hardhat-token-transfers"]
+	path = hardhat-token-transfers
+	url = https://github.com/soumilvavikar/hardhat-token-transfers
+[submodule "hardhat-voting-system"]
+	path = hardhat-voting-system
+	url = https://github.com/soumilvavikar/hardhat-voting-system
+[submodule "hardhat-chainlink-oracles"]
+	path = hardhat-chainlink-oracles
+	url = https://github.com/soumilvavikar/hardhat-chainlink-oracles
+[submodule "hardhat-chainlink-pricefeed"]
+	path = hardhat-chainlink-pricefeed
+	url = https://github.com/soumilvavikar/hardhat-chainlink-pricefeed
+[submodule "hardhat-crowd-funding"]
+	path = hardhat-crowd-funding
+	url = https://github.com/soumilvavikar/hardhat-crowd-funding
