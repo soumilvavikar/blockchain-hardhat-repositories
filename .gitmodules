@@ -13,3 +13,6 @@
 [submodule "hardhat-crowd-funding"]
 	path = hardhat-crowd-funding
 	url = https://github.com/soumilvavikar/hardhat-crowd-funding
+[submodule "hardhat-real-time-fraud-detection"]
+	path = hardhat-real-time-fraud-detection
+	url = https://github.com/soumilvavikar/hardhat-real-time-fraud-detection
